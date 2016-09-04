@@ -1,4 +1,4 @@
-'''
+﻿'''
 Questão 29 :
 O Sr. Manoel Joaquim possui uma grande loja de artigos de R$ 1,99, com cerca
 de 10 caixas. Para agilizar o cálculo de quanto cada cliente deve pagar ele
