@@ -1,4 +1,4 @@
-'''
+﻿'''
 Questão 30 :
 O Sr. Manoel Joaquim acaba de adquirir uma panificadora e pretende implantar a
 metodologia da tabelinha, que já é um sucesso na sua loja de 1,99. Você foi
@@ -19,4 +19,4 @@ P= 1
 while(P<50):
 	print(P,"Reais:",(P*1.99))
 	P += 1
-	print(P,"-R$%.2f"%(P*Pão))
+	print(P,"-Reais%.2f"%(P*Pão))
