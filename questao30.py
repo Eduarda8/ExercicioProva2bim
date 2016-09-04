@@ -12,6 +12,9 @@ Panificadora Pão de Ontem - Tabela de preços
 ...
 50 - R$ 9.00
 '''
+Pão=int(input("Diga quantos Pão você deseja levar :"))
+print("O Preço do pão é:",Pão)
+print("Padaria - Tabela de preços :")
 P= 1
 while(P<50):
 	print(P,"Reais:",(P*1.99))
